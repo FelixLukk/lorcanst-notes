@@ -1,3 +1,8 @@
+---
+title: 什么是斯多葛主义？
+---
+
+
 本文翻译不一定精确，如有错误欢迎批注勘误，原始文章来源：
 
 [What Is Stoicism? A Definition & 9 Stoic Exercises To Get You Started](https://dailystoic.com/what-is-stoicism-a-definition-3-stoic-exercises-to-get-you-started/)
