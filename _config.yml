@@ -102,4 +102,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/FelixLukk/lorcanst-notes.github.io.git
+  branch: main
+  token: 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
